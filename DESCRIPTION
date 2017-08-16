@@ -1,0 +1,11 @@
+Package: RcppFun
+Type: Package
+Title: Fun exercises for learning C++ and Rcpp
+Version: 1.0
+Date: 2017-07-21
+Author: Julian Spagnuolo
+Maintainer: Julian Spagnuolo <julianspagnuolo@gmail.com>
+Description: A bunch of exercises I found on a forum (http://www.cplusplus.com/forum/articles/12974/) that I decided to do using Rcpp as a way of learning both Rcpp and some basics of C++ at the same time. My solutions are in the src files along with the exercise descriptions (these will also be in the git readme). Tictactoe and dungeon functions are two "games" playable within the R console.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.12)
+LinkingTo: Rcpp

@@ -6,28 +6,47 @@ The post from the forum is copied below. Many thanks to the OP, these exercises 
 Suggested Study Order:
 
 • variables, data types, and numerical operators
+
 • basic input/output
+
 • logic ( if statements, switch statements )
+
 • loops ( for, while, do-while )
+
 • arrays
+
 • pseudo random number generation
+
 • strings & string functions
+
 • functions
+
 • structures/classes
+
 • enumerated data
+
 • file input/output
+
 • pointers
+
 • sorting
+
 • linked lists
+
 • advanced classes
+
 • recursion
 
 
 _________________________________________________________________________________
 Grading Program
+
 Requires:
+
 variables, data types, and numerical operators
+
 basic input/output
+
 logic (if statements, switch statements)
 
 Write a program that allows the user to enter the grade scored in a programming class (0-100).
@@ -41,9 +60,13 @@ If the user scored a 100 then notify the user that they got a perfect score.
 
 _________________________________________________________________________________
 Cola Machine
+
 Requires:
+
 variables, data types, and numerical operators
+
 basic input/output
+
 logic (if statements, switch statements)
 
 Write a program that presents the user w/ a choice of your 5 favorite beverages (Coke, Water, Sprite, ... , Whatever).
@@ -58,10 +81,15 @@ If instead your program uses a switch statement, modify it to use if/else-if sta
 
 _________________________________________________________________________________
 While( user == gullible )
+
 Requires:
+
 variables, data types, and numerical operators
+
 basic input/output
+
 logic (if statements, switch statements)
+
 loops (for, while, do-while)
 
 Write a program that ccontinues to asks the user to enter any number other than 5 until the user enters the number 5.
@@ -74,11 +102,17 @@ Then tell the user "Hey! you weren't supposed to enter 5!" and exit the program.
 
 _________________________________________________________________________________
 Pancake Glutton
+
 Requires:
+
 variables, data types, and numerical operators
+
 basic input/output
+
 logic (if statements, switch statements)
+
 loops (for, while, do-while)
+
 arrays
 
 Write a program that asks the user to enter the number of pancakes eaten for breakfast by 10 different people (Person 1, Person 2, ..., Person 10)
@@ -97,11 +131,17 @@ Person 5: ate 0 pancakes
 
 _________________________________________________________________________________
 Bracketing Search
+
 Requires:
+
 variables, data types, and numerical operators
+
 basic input/output
+
 logic (if statements, switch statements)
+
 loops (for, while, do-while)
+
 psudo random numbers
 
 Write a program that calculates a random number 1 through 100. The program then asks the user to guess the number.
